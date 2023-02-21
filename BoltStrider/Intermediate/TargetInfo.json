@@ -1,0 +1,14 @@
+{
+	"Targets": [
+		{
+			"Name": "BoltStrider",
+			"Path": "C:\\Users\\dmarc\\Documents\\Unreal Projects\\BoltStrider\\Source\\BoltStrider.Target.cs",
+			"Type": "Game"
+		},
+		{
+			"Name": "BoltStriderEditor",
+			"Path": "C:\\Users\\dmarc\\Documents\\Unreal Projects\\BoltStrider\\Source\\BoltStriderEditor.Target.cs",
+			"Type": "Editor"
+		}
+	]
+}

@@ -1,0 +1,58 @@
+[
+	{
+		"file": "C:\\Users\\dmarc\\Documents\\Unreal Projects\\BoltStrider\\Source\\BoltStrider\\BoltStrider.Build.cs",
+		"arguments": [
+			"C:\\Program Files (x86)\\Microsoft Visual Studio\\2019\\Community\\VC\\Tools\\MSVC\\14.29.30133\\bin\\HostX64\\x64\\cl.exe",
+			"@C:\\Users\\dmarc\\Documents\\Unreal Projects\\BoltStrider\\.vscode\\compileCommands_Default\\BoltStrider.255.rsp"
+		],
+		"directory": "C:\\Program Files\\Epic Games\\UE_5.1\\Engine\\Source"
+	},
+	{
+		"file": "C:\\Users\\dmarc\\Documents\\Unreal Projects\\BoltStrider\\Source\\BoltStrider\\BoltStrider.cpp",
+		"arguments": [
+			"C:\\Program Files (x86)\\Microsoft Visual Studio\\2019\\Community\\VC\\Tools\\MSVC\\14.29.30133\\bin\\HostX64\\x64\\cl.exe",
+			"@C:\\Users\\dmarc\\Documents\\Unreal Projects\\BoltStrider\\.vscode\\compileCommands_Default\\BoltStrider.255.rsp"
+		],
+		"directory": "C:\\Program Files\\Epic Games\\UE_5.1\\Engine\\Source"
+	},
+	{
+		"file": "C:\\Users\\dmarc\\Documents\\Unreal Projects\\BoltStrider\\Source\\BoltStrider\\BoltStrider.h",
+		"arguments": [
+			"C:\\Program Files (x86)\\Microsoft Visual Studio\\2019\\Community\\VC\\Tools\\MSVC\\14.29.30133\\bin\\HostX64\\x64\\cl.exe",
+			"@C:\\Users\\dmarc\\Documents\\Unreal Projects\\BoltStrider\\.vscode\\compileCommands_Default\\BoltStrider.255.rsp"
+		],
+		"directory": "C:\\Program Files\\Epic Games\\UE_5.1\\Engine\\Source"
+	},
+	{
+		"file": "C:\\Users\\dmarc\\Documents\\Unreal Projects\\BoltStrider\\Source\\BoltStrider\\BoltStriderCharacter.cpp",
+		"arguments": [
+			"C:\\Program Files (x86)\\Microsoft Visual Studio\\2019\\Community\\VC\\Tools\\MSVC\\14.29.30133\\bin\\HostX64\\x64\\cl.exe",
+			"@C:\\Users\\dmarc\\Documents\\Unreal Projects\\BoltStrider\\.vscode\\compileCommands_Default\\BoltStrider.255.rsp"
+		],
+		"directory": "C:\\Program Files\\Epic Games\\UE_5.1\\Engine\\Source"
+	},
+	{
+		"file": "C:\\Users\\dmarc\\Documents\\Unreal Projects\\BoltStrider\\Source\\BoltStrider\\BoltStriderCharacter.h",
+		"arguments": [
+			"C:\\Program Files (x86)\\Microsoft Visual Studio\\2019\\Community\\VC\\Tools\\MSVC\\14.29.30133\\bin\\HostX64\\x64\\cl.exe",
+			"@C:\\Users\\dmarc\\Documents\\Unreal Projects\\BoltStrider\\.vscode\\compileCommands_Default\\BoltStrider.255.rsp"
+		],
+		"directory": "C:\\Program Files\\Epic Games\\UE_5.1\\Engine\\Source"
+	},
+	{
+		"file": "C:\\Users\\dmarc\\Documents\\Unreal Projects\\BoltStrider\\Source\\BoltStrider\\BoltStriderGameMode.cpp",
+		"arguments": [
+			"C:\\Program Files (x86)\\Microsoft Visual Studio\\2019\\Community\\VC\\Tools\\MSVC\\14.29.30133\\bin\\HostX64\\x64\\cl.exe",
+			"@C:\\Users\\dmarc\\Documents\\Unreal Projects\\BoltStrider\\.vscode\\compileCommands_Default\\BoltStrider.255.rsp"
+		],
+		"directory": "C:\\Program Files\\Epic Games\\UE_5.1\\Engine\\Source"
+	},
+	{
+		"file": "C:\\Users\\dmarc\\Documents\\Unreal Projects\\BoltStrider\\Source\\BoltStrider\\BoltStriderGameMode.h",
+		"arguments": [
+			"C:\\Program Files (x86)\\Microsoft Visual Studio\\2019\\Community\\VC\\Tools\\MSVC\\14.29.30133\\bin\\HostX64\\x64\\cl.exe",
+			"@C:\\Users\\dmarc\\Documents\\Unreal Projects\\BoltStrider\\.vscode\\compileCommands_Default\\BoltStrider.255.rsp"
+		],
+		"directory": "C:\\Program Files\\Epic Games\\UE_5.1\\Engine\\Source"
+	}
+]

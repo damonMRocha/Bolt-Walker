@@ -1,0 +1,14 @@
+{
+    "Version": "1.1",
+    "Data": {
+        "Source": "c:\\users\\dmarc\\documents\\unreal projects\\boltstrider\\source\\boltstrider\\boltstrider.cpp",
+        "ProvidedModule": "",
+        "PCH": "c:\\users\\dmarc\\documents\\unreal projects\\boltstrider\\intermediate\\build\\win64\\boltstridereditor\\development\\engine\\sharedpch.engine.shadowerrors.h.pch",
+        "Includes": [
+            "c:\\users\\dmarc\\documents\\unreal projects\\boltstrider\\intermediate\\build\\win64\\unrealeditor\\development\\boltstrider\\definitions.boltstrider.h",
+            "c:\\users\\dmarc\\documents\\unreal projects\\boltstrider\\source\\boltstrider\\boltstrider.h"
+        ],
+        "ImportedModules": [],
+        "ImportedHeaderUnits": []
+    }
+}
